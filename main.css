@@ -1,0 +1,120 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    font-family: 'Zilla Slab', serif; 
+}
+
+#about{
+    font-family: 'Roboto Mono', monospace;
+}
+
+#towers h2{
+    font-family: 'Zilla Slab', serif;
+}
+
+header{
+    padding: 16px;
+    background-color: #087222;
+    color: #ecf0f1;
+}
+
+header nav li{
+    display: inline;
+    margin-left: 16px;
+    font-size: 18px;
+}
+
+header nav li a{
+    color: #ecf0f1;
+    text-decoration: none;
+}
+
+.container{
+    max-width: 1280px;
+    align-items: center;
+    margin: 0 auto;
+}
+
+header .container,
+section .container{
+    display: flex;
+    align-items: central;
+    justify-content: space-between;
+}
+
+.container img{
+    margin-right: 20px;
+    margin-top: 50px;
+    height: 200px;
+}
+
+div h2 p{
+    display: flex;
+    margin-left: 16px;
+    font-size: 18px;
+}
+
+#towers h2{
+    margin-left: 600px;
+}
+
+/* .links{
+    margin-left: 40px;
+}
+
+.links a{
+    margin-right: 230px;
+    text-decoration: none;
+} */
+
+#primarias{
+    background-color: rgb(9, 168, 168);
+    color: #ecf0f1;
+}
+
+#militares{
+    background-color: green;
+    color: #ecf0f1;
+}
+
+#magicas{
+    background-color: purple;
+    color: #ecf0f1;
+}
+
+#suportes{
+    background-color: orange;
+    color: #ecf0f1;
+}
+
+section h2{
+    margin-bottom: 16px;
+}
+
+html{
+    background-color: white;
+}
+
+/* button{
+    display: block;
+    border: none;
+    cursor: pointer;
+    width: 200px;
+    margin-bottom: 8px;
+    background-color: #087222;
+    color: #ecf0f1;
+    display: inline;
+} */
+
+.links a img{
+    height: 160px;
+    display: inline;
+}
+
+.primarios{
+    padding-left: 300px;
+}
