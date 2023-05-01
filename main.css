@@ -33,6 +33,10 @@ header nav li a{
     text-decoration: none;
 }
 
+.container h1{
+    margin-left: 450px;
+}
+
 .container{
     max-width: 1280px;
     align-items: center;
