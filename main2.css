@@ -77,6 +77,149 @@ footer a{
     color: #ecf0f1;
 }
 
-#link2{
+/* #link2{
     margin-left: 830px;
+} */
+
+#ice_monkey a img{
+    height: 50px;
+    margin-top: 150px;
+    margin-left: 940px;
+}
+
+#glue_monkey a img{
+    height: 50px;
+    margin-top: 150px;
+    margin-left: 920px;
+}
+
+.container2 a img{
+    height: 50px;
+    margin-top: 205px;
+}
+
+#tack_shooter a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 930px;
+}
+
+#cannon a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 870px;
+}
+
+#boomerang_monkey a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 870px;
+}
+
+#dart_monkey a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 960px;
+}
+
+#sniper_monkey a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 960px;
+}
+
+#monkey_sub a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 920px;
+}
+
+#monkey_buccaneer a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 960px;
+}
+
+#monkey_ace a img{
+    height: 50px;
+    margin-top: 150px;
+    margin-left: 900px;
+}
+
+#heli_pilot a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 930px;
+}
+
+#mortar_monkey a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 900px;
+}
+
+#dartling_gunner a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 910px;
+}
+
+#wizard_monkey a img{
+    height: 50px;
+    margin-top: 125px;
+    margin-left: 960px;
+}
+
+#super_monkey a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 920px;
+}
+
+#ninja_monkey a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 880px;
+}
+
+#alchemist a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 960px;
+}
+
+#druid a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 950px;
+}
+
+#banana_farm a img{
+    height: 50px;
+    margin-top: 150px;
+    margin-left: 940px;
+}
+
+#spike_factory a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 850px;
+}
+
+#monkey_village a img{
+    height: 50px;
+    margin-top: 150px;
+    margin-left: 940px;
+}
+
+#engineer_monkey a img{
+    height: 50px;
+    margin-top: 126px;
+    margin-left: 930px;
+}
+
+#beast_handler a img{
+    height: 50px;
+    margin-top: 103px;
+    margin-left: 900px;
 }
