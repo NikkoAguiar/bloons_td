@@ -62,39 +62,6 @@ div h2 p{
     font-size: 18px;
 }
 
-#towers h2{
-    margin-left: 600px;
-}
-
-/* .links{
-    margin-left: 40px;
-}
-
-.links a{
-    margin-right: 230px;
-    text-decoration: none;
-} */
-
-#primarias{
-    background-color: rgb(9, 168, 168);
-    color: #ecf0f1;
-}
-
-#militares{
-    background-color: green;
-    color: #ecf0f1;
-}
-
-#magicas{
-    background-color: purple;
-    color: #ecf0f1;
-}
-
-#suportes{
-    background-color: orange;
-    color: #ecf0f1;
-}
-
 section h2{
     margin-bottom: 16px;
 }
@@ -103,22 +70,13 @@ html{
     background-color: white;
 }
 
-/* button{
-    display: block;
-    border: none;
-    cursor: pointer;
-    width: 200px;
-    margin-bottom: 8px;
-    background-color: #087222;
-    color: #ecf0f1;
-    display: inline;
-} */
-
-.links a img{
-    height: 160px;
+ul li{
+    align-items: center; 
     display: inline;
 }
 
-.primarios{
-    padding-left: 300px;
+.links a img{
+    align-items: center;
+    height: 160px;
+    display: inline;
 }
